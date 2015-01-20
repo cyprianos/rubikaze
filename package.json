@@ -1,0 +1,20 @@
+{
+  "name": "rubikaze",
+  "version": "0.0.1",
+  "description": "Easy to use Rubik Cube backend model.  Created for computations, for gaining some experience in writing modules and just for fun. Enjoy!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rubik",
+    "cube",
+    "backend",
+    "rubikaze"
+  ],
+  "author": "Cyprian Gepfert cgepfert@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "functional-matrix": "^0.1.0"
+  }
+}
