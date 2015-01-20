@@ -1,7 +1,7 @@
-var Cube = require('./model/Cube');
+var Cube = require('./model/cube');
 var c = new Cube();
-console.log(w);
-module.exports = App;
+console.log(c);
+
 
 ////////
 //POTENTIAL:

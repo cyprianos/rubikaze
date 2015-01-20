@@ -34,3 +34,5 @@ Wall.prototype = {
     } else throw 'bad clock direction';
   }
 }
+
+module.exports = Wall;

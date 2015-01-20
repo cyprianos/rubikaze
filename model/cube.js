@@ -1,5 +1,7 @@
 var Wall = require('./wall');
-  //Rubik as constructor - create 6 walls and relationships between walls
+console.log(Wall);
+
+//Rubik as constructor - create 6 walls and relationships between walls
 //create 6 walls
 var Cube = function() {
 	var walls = this.walls = {};
@@ -16,7 +18,7 @@ Cube.prototype = {
 		front: 'front',
 		back: 'back',
 		left: 'left',
-		right: 'right'
+		right: 'right',
 		top: 'top',
 		bottom: 'bottom'
 	},
@@ -27,9 +29,9 @@ Cube.prototype = {
 		RIGHT:4,
 		TOP:5,
 		BOTTOM:6
-	};
-	front: front,
-	swap: swap
+	},
+	front: front
+	//swap: swap
 };
 
 function swap4(a,b,c,d) {
