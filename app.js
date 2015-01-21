@@ -4,8 +4,8 @@ console.log(c);
 
 
 ////////
-//POTENTIAL:
-//rubikaze-scrambler
+//POTENTIAL plugins TODO - if someone is experienced in rubik cube implementation, you can help me to create this please contact me cgepfert@gmail. My idea is to make separate packages
+//rubikaze-scrambler - s
 //rubikaze-solver
 //rubikaze
 //rubikaze-megaminx

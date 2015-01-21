@@ -1,6 +1,6 @@
 {
   "name": "rubikaze",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easy to use Rubik Cube backend model.  Created for computations, for gaining some experience in writing modules and just for fun. Enjoy!",
   "main": "app.js",
   "scripts": {
